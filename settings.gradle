@@ -1,0 +1,2 @@
+rootProject.name = "offline-gbt12350-calculator"
+include ':app'
